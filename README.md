@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a vocational student.
-- 🌱 I’m currently learning go!
+- 🌱 I’m currently learning python!
 - 📫 How to reach me: [Various SNS](https://kuwaharu.com)
 <br>
 
