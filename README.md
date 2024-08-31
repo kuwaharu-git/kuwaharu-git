@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a vocational student.
 - 🌱 I’m currently learning python!
-- 📫 How to reach me: [Various SNS](https://kuwaharu.com)
+- 📫 How to reach me: [Various SNS](https://kuwaharu-git.github.io/introduction/)
 <br>
 
 
