@@ -9,7 +9,9 @@
 
 - 🧑‍💻 I'm a vocational student.
 - 🌱 I’m currently learning python!
-- 📫 How to reach me: [Various SNS](https://kuwaharu-git.github.io/introduction/)
+- 📫 How to reach me: [x](https://x.com/kuwaharu_it)
+- 🌟 My portfolio: [Kuwaharu's portfolio](https://www.kuwaharu.com)
+- 🧑🏻‍💻 My blog: [Kuwaharu's blog](https://tech.kuwaharu.com)
 <br>
 
 
