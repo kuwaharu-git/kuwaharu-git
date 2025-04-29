@@ -11,6 +11,7 @@
 - 📫 How to reach me: [x](https://x.com/kuwaharu_it)
 - 🌟 My portfolio: [Kuwaharu's portfolio](https://www.kuwaharu.com)
 - 🧑🏻‍💻 My blog: [Kuwaharu's blog](https://tech.kuwaharu.com)
+- 🗒️ My note: [note](https://note.com/kuwaharu)
 <br>
 
 
